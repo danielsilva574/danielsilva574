@@ -1,6 +1,5 @@
-## Me Chamo Daniel Tenho 17 Anos, sou Estudante Atualmente estou Aprendendo Progamaçao na Linguagem JavaScript 
+## Me Chamo Daniel Tenho 17 Anos, sou Estudante. Atualmente estou Aprendendo Progamação na Linguagem JavaScript 
 
-<!--
 **danielsilva574\danielsilva574**
 
 Here are some ideas to get you started:
@@ -9,4 +8,4 @@ Here are some ideas to get you started:
 - 📷 @daniesilva__
 - Sete Barras\SP
 
-![](https://tenor.com/zYmf.gif)
+![](https://media1.tenor.com/m/nv7f19HKB2oAAAAd/blank-stare-really.gif)
